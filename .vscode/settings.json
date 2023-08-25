@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "declare.h": "c",
+    "global.h": "c",
+    "tokenizer.h": "c"
+  }
+}
